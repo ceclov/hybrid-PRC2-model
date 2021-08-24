@@ -1,6 +1,6 @@
 # hybrid-PRC2-model
 
-This is the source code of the publication xx. 
+This is the source code of the publication https://doi.org/10.7554/eLife.66454. 
 
 The details of the simulations of this publication is described in the Materials and methods. 
 
